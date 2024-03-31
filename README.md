@@ -20,7 +20,7 @@ Recovering 3D human poses and shapes from one monocular RGB image is challenging
 
 Below is the learning framework of `HybrIK`:
 
-![Learning Framework of HybrIK](/demo/framework.png)
+<div algin=center>![Learning Framework of HybrIK](/demo/framework.png)
 
 ### 1.2 Project Motivation and Tasks
 
@@ -34,7 +34,7 @@ In this project, our aims are:
 
 Below is the $\lambda$-HybrIK algorithm that we proposed:
 
-![Lambda HybrIK Algorithm](/demo/algorithm.png)
+<div algin=center>![Lambda HybrIK Algorithm](/demo/algorithm.png)
 
 ## 2. Demo and Conclusion
 
