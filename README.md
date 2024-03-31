@@ -8,4 +8,8 @@ This project is hosted on `Colab`, google's machine learning platform on the clo
 
 **Skills:** _Pytorch_, _Deep Neural Networks_
 
+### Background
+
+### Project Motivation and Tasks
+
 ## Demo
