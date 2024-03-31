@@ -12,7 +12,7 @@ Please refer to my [colab page](https://colab.research.google.com/drive/1YVSZy-L
 
 ### 1.1 Background
 
-Recovering 3D human poses and shapes from one monocular RGB image is challenging because it is a fundamentally ill-posed problem. It is difficult for the model-based methods to learn the regression function for estimation of body parameters from the images. While researchers resort to 3D keypoint estimation-based methods and achieved impressive performance, such approach might predict unrealistic body structures due to the lack of explicit modelling of human bodies.
+Recovering 3D human poses and shapes from one monocular RGB image is challenging because it is a fundamentally ill-posed problem. It is difficult for the `model-based methods` to learn the regression function for estimation of body parameters from the images. While researchers resort to `3D keypoint estimation-based methods` and achieved impressive performance, such approach might predict unrealistic body structures due to the lack of explicit modelling of human bodies.
 
 
 
