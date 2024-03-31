@@ -22,6 +22,8 @@ Below is the learning framework of `HybrIK`:
 
 ### 1.2 Project Motivation and Tasks
 
+In the paper of `HybrIK`, the authors proposed 2 methods: `naive HybrIK` and `adaptive HybrIK`.
+
 ## 2. Demo and Conclusion
 
 ## 3. Acknowledgement
