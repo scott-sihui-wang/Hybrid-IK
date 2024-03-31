@@ -22,7 +22,11 @@ Below is the learning framework of `HybrIK`:
 
 ### 1.2 Project Motivation and Tasks
 
-In the paper of `HybrIK`, the authors proposed 2 methods: `naive HybrIK` and `adaptive HybrIK`.
+In the paper of `HybrIK`, the authors proposed 2 methods: `naive HybrIK` and `adaptive HybrIK`. It is believed that `adaptive HybrIK` can generate better results, because by `adaptive HybrIK`, the reconstruction error won't accumulate from the ancestral nodes to the current joint. However, `adaptive HybrIK` is heuristic, and it is unclear if it is the best option for minimizing the reconstruction error.
+
+In this project, our aims are:
+
+- Propose \lambda-HybrIK
 
 ## 2. Demo and Conclusion
 
