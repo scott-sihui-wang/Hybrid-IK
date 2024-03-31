@@ -40,11 +40,11 @@ Below is the $\lambda$-HybrIK algorithm that we proposed:
 
 The results can be found at [here](https://drive.google.com/drive/folders/1K6U3LFzHFFvpT908A8deQIGXEGuqQJVV?usp=sharing). The `0_0`, `0_5`, `1_0` folders store the results for $\lambda$=0.0 (`naive HybrIK`), $\lambda$=0.5 (`interpolated HybrIK`), and $\lambda$=1.0 (`adaptive HybrIK`), respectively.
 
-Below is the qualitative result:
+Below is the `qualitative result`:
 
 ![Qualitative Result](/demo/qualitative.png)
 
-Below is the quantitative result: (**PA-MPJPE**: _procrustes aligned mean per joint position error_; **MPJPE**: _mean per joint position error_; **PCK**: _percentage of correct keypoints_)
+Below is the `quantitative result`: (**PA-MPJPE**: _procrustes aligned mean per joint position error_; **MPJPE**: _mean per joint position error_; **PCK**: _percentage of correct keypoints_)
 
 ![Quantitative Result](/demo/quantitative.png)
 
