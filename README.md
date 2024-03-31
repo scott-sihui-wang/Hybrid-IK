@@ -1,6 +1,6 @@
 # Hybrid-IK
 
-## Introduction
+## 1. Introduction
 
 This project is hosted on `Colab`, google's machine learning platform on the cloud. Please follow the [link](https://drive.google.com/drive/folders/1D1EdqgHQQv_skPSmAtS0Sztoe9zqJTh6?usp=sharing) for more information of this project.
 
@@ -8,8 +8,8 @@ This project is hosted on `Colab`, google's machine learning platform on the clo
 
 **Skills:** _Pytorch_, _Deep Neural Networks_
 
-### Background
+### 1.1 Background
 
-### Project Motivation and Tasks
+### 1.2 Project Motivation and Tasks
 
-## Demo
+## 2. Demo
