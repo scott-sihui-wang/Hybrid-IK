@@ -6,7 +6,7 @@ This project is hosted on `Colab`, google's machine learning platform on the clo
 
 Please refer to my [colab page](https://colab.research.google.com/drive/1YVSZy-Lj4H49chmWO5FQyWEHP063vvdx?usp=sharing) to see how to setup the project, run the code, and reproduce the results.
 
-Here is my [presentation](/demo/Hybrid Analytical and Neural IK for Human Pose.pdf) and [technical report](/demo/CMPT_766_Final_Report.pdf) of this project.
+Here is my [presentation](/demo/Hybrid_Analytical_and_Neural_IK_for_Human_Pose.pdf) and [technical report](/demo/CMPT_766_Final_Report.pdf) of this project.
 
 **Topics:** _Inverse Kinematics_, _Pose Estimation_
 
