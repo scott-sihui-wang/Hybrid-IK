@@ -44,7 +44,7 @@ Below is the qualitative result:
 
 ![Qualitative Result](/demo/qualitative.png)
 
-Below is the quantitative result: (*PA-MPJPE*: _procrustes aligned mean per joint position error_; *MPJPE*: _mean per joint position error_; *PCK*: _percentage of correct keypoints_)
+Below is the quantitative result: (**PA-MPJPE**: _procrustes aligned mean per joint position error_; **MPJPE**: _mean per joint position error_; **PCK**: _percentage of correct keypoints_)
 
 ![Quantitative Result](/demo/quantitative.png)
 
