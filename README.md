@@ -4,7 +4,7 @@
 
 This project is hosted on `Colab`, google's machine learning platform on the cloud. Please follow the [link](https://drive.google.com/drive/folders/1D1EdqgHQQv_skPSmAtS0Sztoe9zqJTh6?usp=sharing) to check out the full details of this project.
 
-Please refer to my [colab page](https://colab.research.google.com/drive/1YVSZy-Lj4H49chmWO5FQyWEHP063vvdx?usp=sharing) to see how to setup the project and run the code.
+Please refer to my [colab page](https://colab.research.google.com/drive/1YVSZy-Lj4H49chmWO5FQyWEHP063vvdx?usp=sharing) to see how to setup the project, run the code, and reproduce the results.
 
 **Topics:** _Inverse Kinematics_, _Pose Estimation_
 
