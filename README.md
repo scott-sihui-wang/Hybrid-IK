@@ -26,7 +26,7 @@ In the paper of `HybrIK`, the authors proposed 2 methods: `naive HybrIK` and `ad
 
 In this project, our aims are:
 
-- Propose \lambda -HybrIK
+- Propose $\lambda$ -HybrIK
 
 ## 2. Demo and Conclusion
 
