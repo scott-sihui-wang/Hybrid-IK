@@ -38,6 +38,6 @@ Below is the $\lambda$-HybrIK algorithm that we proposed:
 
 ## 2. Demo and Conclusion
 
-The results can be found at [here](https://drive.google.com/drive/folders/1K6U3LFzHFFvpT908A8deQIGXEGuqQJVV?usp=sharing).
+The results can be found at [here](https://drive.google.com/drive/folders/1K6U3LFzHFFvpT908A8deQIGXEGuqQJVV?usp=sharing). The `0_0`, `0_5`, `1_0` folders store the results for $\lambda$=0.0 (`naive HybrIK`), $\lambda$=0.5 (`interpolated HybrIK`), and $\lambda$=1.0 (`adaptive HybrIK`), respectively.
 
 ## 3. Acknowledgement
