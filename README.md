@@ -12,4 +12,6 @@ This project is hosted on `Colab`, google's machine learning platform on the clo
 
 ### 1.2 Project Motivation and Tasks
 
-## 2. Demo
+## 2. Demo and Conclusion
+
+## 3. Acknowledgement
