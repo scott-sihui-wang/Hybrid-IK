@@ -30,9 +30,9 @@ In this project, our aims are:
 
 - Evaluate `HybrIK` with different $\lambda$ values and report the reconstruction errors.
 
-Below is the `$\lambda$-HybrIK` algorithm that we proposed:
+Below is the $\lambda$-HybrIK algorithm that we proposed:
 
-![Lambda HybrIK Algorithm](\demo\algorithm.png)
+![Lambda HybrIK Algorithm](/demo/algorithm.png)
 
 ## 2. Demo and Conclusion
 
