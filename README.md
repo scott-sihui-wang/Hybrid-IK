@@ -8,7 +8,7 @@ Please refer to my [colab page](https://colab.research.google.com/drive/1YVSZy-L
 
 Here is my [presentation](/demo/Hybrid_Analytical_and_Neural_IK_for_Human_Pose.pdf) and [technical report](/demo/CMPT_766_Final_Report.pdf) of this project.
 
-My implementation of $\lambda$-HybrIK is at `lbs.py`. It is located at 
+My implementation of $\lambda$-HybrIK is at `lbs.py`. It is located at `hybrik > models > layers > smpl > lbs.py`.
 
 **Topics:** _Inverse Kinematics_, _Pose Estimation_
 
