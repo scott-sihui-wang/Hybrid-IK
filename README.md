@@ -8,7 +8,7 @@ Please refer to my [colab page](https://colab.research.google.com/drive/1YVSZy-L
 
 **Topics:** _Inverse Kinematics_, _Pose Estimation_
 
-**Skills:** _Pytorch_, _Deep Neural Networks_
+**Skills:** _Pytorch_, _Deep Neural Networks_, _Colab_
 
 ### 1.1 Background
 
