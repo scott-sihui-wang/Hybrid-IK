@@ -12,7 +12,7 @@ My implementation of $\lambda$-HybrIK is at `lbs.py`. It is located at `hybrik >
 
 **Topics:** _Inverse Kinematics_, _Pose Estimation_
 
-**Skills:** _Pytorch_, _Deep Neural Networks_, _Colab_
+**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Colab_
 
 ### 1.1 Background
 
