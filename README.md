@@ -42,10 +42,10 @@ The results can be found at [here](https://drive.google.com/drive/folders/1K6U3L
 
 Below is the qualitative result:
 
-[Qualitative Result](\demo\qualitative.png)
+![Qualitative Result](\demo\qualitative.png)
 
 Below is the quantitative result:
 
-[Quantitative Result](\demo\quantitative.png)
+![Quantitative Result](\demo\quantitative.png)
 
 ## 3. Acknowledgement
