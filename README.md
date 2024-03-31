@@ -28,7 +28,7 @@ In this project, our aims are:
 
 - Propose $\lambda$-HybrIK, adding a tuning parameter to provide an _interpolation_ between `naive HybrIK` and `adaptive HybrIK`;
 
-- 
+- Evaluate `HybrIK` with different $\lambda$ values and report the reconstruction errors.
 
 ## 2. Demo and Conclusion
 
