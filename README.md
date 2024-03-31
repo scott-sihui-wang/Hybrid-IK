@@ -6,6 +6,6 @@ This project is hosted on `Colab`, google's machine learning platform on the clo
 
 **Topics:** _Inverse Kinematics_, _Pose Estimation_
 
-**Skills** _Pytorch_, _Deep Neural Networks_
+**Skills:** _Pytorch_, _Deep Neural Networks_
 
 ## Demo
