@@ -48,6 +48,8 @@ Below is the `quantitative result`: (**PA-MPJPE**: _procrustes aligned mean per 
 
 ![Quantitative Result](/demo/quantitative.png)
 
+From our observation, different choices of $\lambda$ only leads to minimal change of reconstruction errors.
+
 ## 3. Acknowledgement
 
 Our implementation of $\lambda$-HybrIk is based on the implementation of `naive HybrIK` and `adaptive HybrIK`. We acknowledge the use of `HybrIK`'s author's code from [here](https://github.com/Jeff-sjtu/HybrIK).
